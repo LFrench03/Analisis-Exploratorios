@@ -1,7 +1,9 @@
-## Analisis Exploratorio de Datos
+# <l style="text-align:center">Análisis Exploratorio de Datos (AED)</l>
 ---
-#### Datasets desarrollados:
+#### Datasets:
 
-* trees
+- Trees
 
 ![](img/aed.jpeg)
+
+##### Imagen generada por [IA](https://copilot.microsoft.com/images/create?)
