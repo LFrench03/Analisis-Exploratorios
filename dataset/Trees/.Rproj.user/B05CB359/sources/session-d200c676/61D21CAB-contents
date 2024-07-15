@@ -1,0 +1,41 @@
+.aligncenter {
+  text-align: center;
+}
+
+.obs{
+  color: brown;
+  display: inline;
+}
+
+.languagehtml{
+ color: orange; 
+ display: inline;
+}
+
+.bar{
+  color: SteelBlue;
+  display:inline;
+}
+
+.languagelatex{
+  color:green;
+  display:inline;
+}
+
+.definition{
+  color: blue;
+  display:inline;
+}
+
+.important{
+  color: crimson;
+}
+
+.r-code{
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 2px solid gray;
+  background-color: #F2F2F2;
+  font-size: 0.7em
+}
