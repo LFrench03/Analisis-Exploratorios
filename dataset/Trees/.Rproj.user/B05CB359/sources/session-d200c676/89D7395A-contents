@@ -1,9 +1,0 @@
-# Gráfico de línea para Height y Volume
-plot(trees$Height, trees$Volume,
-     type = "l",
-     main = "Relación entre Height y Volume",
-     xlab = "Height",
-     ylab = "Volume",
-     col = "red",
-     lwd = 2)
-
